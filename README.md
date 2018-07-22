@@ -1,7 +1,7 @@
 # Data-Science-All-at-one-place
 
 
-# Data-Science-All-at-one-place
+
 
 
 This repository is created to keep track of all my repositories related to Data Science. I will keep changing this repo every time I add new projects related to Data Science.
